@@ -1,0 +1,1 @@
+This repo is dedicated to working alongside content learned in my Database Management class. 
