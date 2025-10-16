@@ -1,6 +1,5 @@
 # Personal Aquarium SQL Database Project
 
---- 
 
 Over the last few months, I've been really into aquascaping. The art of combining aquatic elements for a natural beautiful aquarium.
 
@@ -33,11 +32,14 @@ The `aquarium_db` database models my planted fish tank setup, outlining the mate
 - Notepad for editing this readme
 
 ## File Structure
+
+```bash
  aquarium-sql-database
 ├── schema.sql         # Database structure (tables, keys, constraints)
 ├── seed.sql           # Inserts sample aquarium data
 ├── queries.sql        # Test queries, reports, sanity checks
 └── README.md          # Project documentation
+```
 
 ## Usage
 1. Open MySQL Workbench and connect to your local server
